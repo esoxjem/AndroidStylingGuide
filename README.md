@@ -102,13 +102,6 @@ Overriding priority:
 view styling > style > textApprearance
 ```
 
-Usage:
-
-- Avoid if possible.
-- ¯\\\_(ツ)_/¯
-
-Doesn't seem necessary if you style semantically similar views.
-
 ### Organization
 For starters,
 
